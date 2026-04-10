@@ -29,3 +29,7 @@ packages/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+## Ignore TODO files
+TODO*.md
+*.todo
