@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/CIZ31uGrIs=",
+  "success": true,
+  "projectFilePath": "C:\\SorceCode\\CronJobConsoleApp\\CronJobConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\cronos\\0.8.1\\cronos.0.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}
