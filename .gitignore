@@ -1,0 +1,31 @@
+## Ignore Visual Studio / MSBuild generated files
+**/.vs/
+**/bin/
+**/obj/
+**/.nxproject/
+**/*.user
+**/*.userosscache
+**/*.sln.docstates
+**/*.csproj.DotSettings.user
+
+## Ignore built executables
+*.dll
+*.exe
+*.pdb
+*.runtimeconfig.json
+*.deps.json
+
+## Ignore NuGet packages
+packages/
+
+## Ignore global tools
+*.nupkg
+
+## OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
